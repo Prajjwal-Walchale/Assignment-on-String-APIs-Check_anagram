@@ -1,0 +1,2 @@
+# Assignment-on-String-APIs-Check_anagram
+Write a python function, check_anagram() which accepts two strings and returns True, if one string is a special anagram of another string. Otherwise returns False. The two strings are considered to be a special anagram if they contain repeating characters but none of the characters repeat at the same position. The length of the strings should be the same. Note: Perform case insensitive comparison wherever applicable. 
